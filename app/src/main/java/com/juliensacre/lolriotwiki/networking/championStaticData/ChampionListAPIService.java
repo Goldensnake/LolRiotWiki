@@ -1,4 +1,4 @@
-package com.juliensacre.lolriotwiki.APIService;
+package com.juliensacre.lolriotwiki.networking.championStaticData;
 
 import rx.Observable;
 

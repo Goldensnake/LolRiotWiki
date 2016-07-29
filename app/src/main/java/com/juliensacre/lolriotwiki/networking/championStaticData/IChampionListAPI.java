@@ -1,4 +1,4 @@
-package com.juliensacre.lolriotwiki.API;
+package com.juliensacre.lolriotwiki.networking.championStaticData;
 
 import com.juliensacre.lolriotwiki.constant.URILolConst;
 
@@ -9,7 +9,7 @@ import rx.Observable;
 /**
  * Created by JulienSacre on 28/07/2016.
  */
-public interface ChampionListAPI {
+public interface IChampionListAPI {
     @GET(URILolConst.CHAMPION)
     Observable<Response> getChampion();
 }

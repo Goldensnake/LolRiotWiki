@@ -1,4 +1,4 @@
-package com.juliensacre.lolriotwiki.viewmodel;
+package com.juliensacre.lolriotwiki.championList;
 
 /**
  * Created by JulienSacre on 28/07/2016.
